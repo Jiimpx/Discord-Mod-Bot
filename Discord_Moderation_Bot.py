@@ -15,7 +15,7 @@ intents.members = True
 bot = commands.Bot(command_prefix='!', intents = intents)
 print(discord.version_info)
 #Stores the token for the bot
-strToken = 'OTA3MjYwODMxNjY0ODM2Njc4.G_lTgz._l8iQbzTueJU4pLSuJX5wHGH1EwDjpG03HlGjc'
+strToken = [your token here]
 intLoggingChannel = 950389964556869683 #Variable to store the channel id for the logging channel
 intStaffChannel = 933784909322002523 #Variable to store the channel id for the staff chat channel
 intNewAccount = 604800 #Variable to store the amount of seconds in 7 days, 7 days being the amount of time discord flags an account as "new"
